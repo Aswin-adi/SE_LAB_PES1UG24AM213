@@ -48,8 +48,8 @@ The remaining medium-priority stories covering reporting, alerting, and platform
 
 ## 3. Burndown Charts
 
-![Sprint 1 Burndown](docs/sprint1-burndown.png)
-![Sprint 2 Burndown](docs/sprint2-burndown.png)
+![Sprint 1 Burndown](../docs/sprint1-burndown.png)
+![Sprint 2 Burndown](../docs/sprint2-burndown.png)
 
 Both sprints burned down to zero story points remaining, indicating all committed work was completed within the sprint window.
 
